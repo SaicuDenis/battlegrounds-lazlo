@@ -1,0 +1,10 @@
+D:\An 2\sem1\Metode avansate de programare\Battle simulator\Battle simulator\bin\Debug\Battle simulator.exe.config
+D:\An 2\sem1\Metode avansate de programare\Battle simulator\Battle simulator\bin\Debug\Battle simulator.exe
+D:\An 2\sem1\Metode avansate de programare\Battle simulator\Battle simulator\bin\Debug\Battle simulator.pdb
+D:\An 2\sem1\Metode avansate de programare\Battle simulator\Battle simulator\obj\Debug\Battle simulator.csprojAssemblyReference.cache
+D:\An 2\sem1\Metode avansate de programare\Battle simulator\Battle simulator\obj\Debug\Battle_simulator.Form1.resources
+D:\An 2\sem1\Metode avansate de programare\Battle simulator\Battle simulator\obj\Debug\Battle_simulator.Properties.Resources.resources
+D:\An 2\sem1\Metode avansate de programare\Battle simulator\Battle simulator\obj\Debug\Battle simulator.csproj.GenerateResource.cache
+D:\An 2\sem1\Metode avansate de programare\Battle simulator\Battle simulator\obj\Debug\Battle simulator.csproj.CoreCompileInputs.cache
+D:\An 2\sem1\Metode avansate de programare\Battle simulator\Battle simulator\obj\Debug\Battle simulator.exe
+D:\An 2\sem1\Metode avansate de programare\Battle simulator\Battle simulator\obj\Debug\Battle simulator.pdb
